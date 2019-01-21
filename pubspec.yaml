@@ -11,7 +11,7 @@ dependencies:
   open_iconic_flutter: ">=0.3.0 <0.4.0"
   video_player:
     git:
-      https://github.com/snaeji/kr_video_player.git
+      https://github.com/snaeji/kr_video_player-0.7.2.git
   flutter:
     sdk: flutter
 
