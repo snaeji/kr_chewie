@@ -265,7 +265,7 @@ class _MaterialControlsState extends State<MaterialControls> {
       child: new Text(
         '${formatDuration(position)} / ${formatDuration(duration)}',
         style: new TextStyle(
-          fontSize: 10.0,
+          fontSize: 10.0, color: Colors.black,
         ),
       ),
     );
