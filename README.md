@@ -1,3 +1,5 @@
+Copied from: https://github.com/brianegan/chewie
+
 # This version depends on an custom version of the video_player plugin. Pubspecs.yaml has been changed to depend on video_player from git that has the option to play audio when the app is put to sleep.
 
 # chewie
